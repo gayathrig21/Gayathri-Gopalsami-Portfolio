@@ -1,7 +1,7 @@
 # Gayathri-Gopalsami-Portfolio
 
 
-# Project 1- WorldHealthStats2020
+# [Project 1- WorldHealthStats2020](https://github.com/gayathrig21/WorldHealthStats2020)
 
 ## EDA of Life Expectancy and Healthy Life Expectancy
 
