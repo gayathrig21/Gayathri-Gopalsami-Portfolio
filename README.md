@@ -18,7 +18,7 @@
  
   2) World vs Region vs India trend
 
-# [Project 2: Garment Industry Dataset] (https://github.com/gayathrig21/GarmentIndustryDataset)  
+# [Project 2: Garment Industry Dataset](https://github.com/gayathrig21/GarmentIndustryDataset)  
 
   ## Productivity Prediction of workers using Garment Industry Dataset
 
@@ -43,7 +43,7 @@
 
   predicting if the workers can achieve the set target
   
-  # [Project 3: Gene Expression Dataset] (https://github.com/gayathrig21/Gene-Expression-Dataset)
+  # [Project 3: Gene Expression Dataset](https://github.com/gayathrig21/Gene-Expression-Dataset)
 
   ## Dataset Analysis and ML Models for predicting cancer 'AML' and 'ALL' cancer types
 
