@@ -1,4 +1,4 @@
-# Gayathri-Gopalsami-Portfolio
+# Gayathri Gopalsami - Portfolio
 
 
 # [Project 1: World Health Stats - 2020](https://github.com/gayathrig21/WorldHealthStats2020)
