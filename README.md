@@ -13,5 +13,7 @@
   ## Problem Statement 
 
   To visualize the data by generalizing the plots into 2 main category -
+  
   1) World demographics on a timeline
+ 
   2) World vs Region vs India trend
